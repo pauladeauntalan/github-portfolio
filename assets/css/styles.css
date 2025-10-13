@@ -247,6 +247,9 @@ img {
 .about__subtitle {
   margin-bottom: var(--mb-2);
 }
+.about__subtitle2 {
+  margin-bottom: var(--mb-1);
+}
 .about__img {
   justify-self: center;
 }
@@ -254,6 +257,7 @@ img {
   width: 200px;
   border-radius: 0.5rem;
 }
+
 
 /* ===== SKILLS =====*/
 .skills__container {
