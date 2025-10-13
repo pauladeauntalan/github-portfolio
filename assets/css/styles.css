@@ -179,6 +179,11 @@ img {
 }
 
 /*===== HOME =====*/
+
+.l-header {
+    background-color: #fdf1f1;
+}
+
 .home {
   position: relative;
   row-gap: 5rem;
