@@ -162,6 +162,10 @@ img {
   cursor: pointer;
 }
 
+.image-logo {
+  width: 95px;
+}
+
 /*Active menu*/
 .active-link::after {
   position: absolute;
