@@ -319,6 +319,10 @@ img {
   border-radius: 0.5rem;
 }
 
+.skills__percentage {
+  display: none;
+}
+
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
