@@ -302,8 +302,9 @@ img {
   height: 0.25rem;
   border-radius: 0.5rem;
   z-index: var(--z-back);
+  width: 100%;
 }
-.skills__html {
+/* .skills__html {
   width: 95%;
 }
 .skills__css {
@@ -314,7 +315,7 @@ img {
 }
 .skills__ux {
   width: 85%;
-}
+} */
 .skills__img {
   border-radius: 0.5rem;
 }
